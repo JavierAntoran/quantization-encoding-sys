@@ -9,5 +9,4 @@ An array dPCM and ADM of systems for audio/ image encoding. Some sample files [1
 
 Functions for calculating SNRq ratios and signal analysis are also included. With previous knoledge of signal characteristics, these systems can be fine tuned for maximum performance. Currently they are tweaked to work well with the sample files provided.
 
-
-
+Updates pending: LMS-ADPCM and Block by block ADPCM with Yules-Walker estimation. 
